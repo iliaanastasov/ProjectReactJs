@@ -1,0 +1,38 @@
+.login-container {
+  border-bottom: 2px solid #ffa000;
+  border-top: 2px solid #ffa000;
+  border-right: 2px solid #ffa000;
+  border-left: 2px solid #ffa000;
+  margin: 3% 35% 35% 35%;
+  padding: 8%;
+  font-size: 120%;
+}
+
+label {
+  display: block;
+  text-align: top;
+}
+
+.register {
+  border-bottom: 2px solid #ffa000;
+  border-top: 2px solid #ffa000;
+  border-right: 2px solid #ffa000;
+  border-left: 2px solid #ffa000;
+  margin: 3% 35% 35% 35%;
+  padding: 8%;
+  font-size: 120%;
+}
+
+h1 {
+  padding: 3vh,
+}
+
+button {
+  border-bottom: 2px solid #ffa000;
+  border-top: 2px solid #ffa000;
+  border-right: 2px solid #ffa000;
+  border-left: 2px solid #ffa000;
+  font-weight: bold;
+  background-color: #234465;
+  color: skyblue;
+}
