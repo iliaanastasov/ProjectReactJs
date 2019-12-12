@@ -1,0 +1,57 @@
+.player-container .notAdded img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    opacity: 1;
+    background-color: greenyellow
+}
+
+.player-container .added img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    opacity: 2;
+}
+
+.player-container .add-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 50px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    opacity: 0.0;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+
+.player-container .add-btn:hover {
+    opacity: 0.6;
+}
+
+.player-container {
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    position: relative;
+    border-radius: 50%;
+    vertical-align: text-top;
+    padding: 3vh;
+}
+
+.player-container label {
+    font-style: bold;
+    color: black;
+    padding-top: 0vh;
+    background-color: greenyellow;
+    background-size: auto;
+    border-radius: 30%;
+}

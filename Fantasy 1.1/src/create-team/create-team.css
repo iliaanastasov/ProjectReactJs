@@ -1,0 +1,55 @@
+div .create-team {
+    width: 800px;
+    height: 600px;
+    border-bottom: 2px solid #ffa000;
+    border-top: 2px solid #ffa000;
+    border-right: 2px solid #ffa000;
+    border-left: 2px solid #ffa000;
+    background-image: url("../public/images/createTeam.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    color: white;
+    display: inline-block;
+    text-align: left;
+    font-size: 150%;
+}
+
+h1 {
+    opacity: 100%;
+    font-size: 200%;
+}
+
+.create-form {
+    padding-top: 28vh;
+    padding-left: 3vh;
+}
+
+.kit-image {
+    height: 50px;
+    width: 50px;
+}
+
+.create-team p {
+    quotes: "'" "'";
+    font-size: 70%;
+    font-style: italic;
+}
+
+.create-team-btn {
+    margin: auto;
+    text-align: center;
+    
+}
+.create-team-btn button{
+    height: 50px;
+    width:120px;
+    border-radius: 50%;
+    border-bottom: 2px solid #ffa000;
+    border-top: 2px solid #ffa000;
+    border-right: 2px solid #ffa000;
+    border-left: 2px solid #ffa000;
+    font-weight: bold;
+    background-color: #234465;
+    color:skyblue;
+}
